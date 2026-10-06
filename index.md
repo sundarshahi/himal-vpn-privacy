@@ -9,6 +9,10 @@ Last updated: 6 October 2026
 Himal VPN is run by **Sundar Shahi** ("we"). This policy covers the Himal VPN Chrome extension and
 the Himal servers it connects to. Questions: **shahithakurisundar@gmail.com**.
 
+Himal VPN's use and transfer of the information it receives follows the
+[Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/),
+including the Limited Use requirements.
+
 ## What Himal does
 
 When you connect, the extension sends your Chrome traffic through an encrypted connection to a
@@ -29,8 +33,9 @@ It protects pages you open in Chrome, not other apps on your device.
 ## What passes through our servers
 
 While you're connected, your Chrome traffic goes through the Himal server you picked, so that
-server can see which sites you connect to. Pages on secure (https) sites stay encrypted between
-Chrome and the site.
+server can see which sites you connect to, and the pages you load pass through it on their way
+to you. Pages on secure (https) sites stay encrypted between Chrome and the site, so the server
+can't read them.
 
 - **Not recorded:** our servers don't record the sites you visit, what you do on them, or your
   traffic.
